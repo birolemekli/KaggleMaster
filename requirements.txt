@@ -68,7 +68,7 @@ nsx-python-sdk==2.3.0.0.3.13851140
 nsx-vmc-aws-integration-python-sdk==2.3.0.0.3.13851140
 nsx-vmc-policy-python-sdk==2.3.0.0.3.13851140
 numba==0.49.0
-numpy==1.18.2
+numpy==1.22.0
 openpyxl==3.0.3
 packaging==20.3
 pandas==1.0.3
